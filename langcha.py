@@ -15,11 +15,13 @@ import plotly.graph_objects as go
 model= "gpt-4.1-nano"
 db_name='vector_db'
 load_dotenv(override=True)
-openai_api_key=os.getenv("")
+openai_api_key=os.getenv("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")
 if openai_api_key:
     print("The api is working")
 else:
     print("Key not set")
 
 #--------------------
- 
+knowledge_base="knowledge_base/**/*.md"
+files =glob.glob(knowledge_base, recursive=True)
+print(f"{files} files found in the Knowledge base")

@@ -6,7 +6,6 @@ For inquiries regarding training schedules, program details, and batch reservati
 18D Mola, La Paz, Makati City, Philippines
 
 ### Direct Contacts
-*(As verified from the corporate details in `image_df00e3.jpg`)*
 *   **Mobile Number:** 09778474888
 *   **Official Website:** www.rivanit.com
 *   **Email Addresses:** 
